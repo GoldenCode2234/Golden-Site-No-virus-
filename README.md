@@ -1,4 +1,4 @@
 # Golden-Site
-'Emmanuel Verdad'
+*Emmanuel Verdad*
 
-LG *Arrowsmith*
+LG _**Arrowsmith**
